@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kalkulator Excel</string>
+    <string name="hint_input_a">Masukkan nilai A</string>
+    <string name="button_calculate">Hitung</string>
+    <string name="button_reset">Reset</string>
+    <string name="error_empty_input">Masukkan nilai di kolom A</string>
+    <string name="error_invalid_input">Input tidak valid</string>
+</resources>
